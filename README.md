@@ -45,6 +45,6 @@ pip install -r requirements.txt
 jupyter notebook notebooks/analisis_portafolio.ipynb
 ```
 
-## 👤 Autor
-**Eider** — Científico de Datos & Estadístico  
+## Autor
+**Eider** — Científico de Datos 
 [![Fiverr](https://img.shields.io/badge/Fiverr-Contrátame-1DBF73?logo=fiverr)](https://www.fiverr.com/datadriveneider)
